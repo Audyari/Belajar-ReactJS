@@ -1,0 +1,12 @@
+Introduction - Instalasi
+
+React.js adalah perpustakaan JavaScript yang populer untuk membangun antarmuka pengguna.
+
+Instalasi React.js menggunakan Vite juga merupakan salah satu opsi yang populer. 
+
+1. npm install -g vite
+2. vite create my-app
+3. npm install
+4. npm run dev
+
+============================
